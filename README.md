@@ -1,76 +1,78 @@
-<!-- Gradient Banner -->
+<!-- ======================= HERO & TYPING ======================= -->
+<h1 align="center">Rik Mandal</h1>
+
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Rik%20Mandal%20—%20Full%20Stack%20Developer&width=900&height=250" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&width=800&lines=Applied+Machine+Learning+Engineer;LLMs+%7C+RAG+Systems+%7C+Computer+Vision;Building+Production-Ready+AI+Systems" alt="Typing SVG"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF00E4&width=600&lines=Hi+I'm+Rik+Mandal!;Full+Stack+Web+Developer;Passionate+Coder+%26+Tech+Enthusiast;Open+to+Collaboration+%26+New+Projects" />
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mondalrik08k-web&label=Profile+Views&color=ff69b4&style=for-the-badge" />
-</p>
-
-# 👋 Welcome to My Developer Profile
-
-Hi there! I'm **Rik Mandal**, a passionate full-stack developer focused on building scalable, modern, and user-friendly applications.
-
----
-
-# 🛠️ Tech Stack (Simple & Clean Badges)
-
-### 💻 **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-</p>
-
-### ⚙️ **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql" />
-</p>
-
-### 🗄️ **Databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" />
-</p>
-
-### 🔧 **Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/CICD-2A2E3A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions" />
+  <img src="https://komarev.com/ghpvc/?username=mondalrik08k-web&label=Profile%20Views&color=6366f1&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🎯 Current Focus
+## 🌟 About Me
 
-- 🔭 Building modern web applications  
-- 🌱 Learning Cloud & DevOps  
-- 👯 Open to collaborations  
-- 💡 Contributing to open-source  
+I am an **Applied Machine Learning Engineer** specializing in **LLMs** and **Computer Vision systems**.  
+I focus on **production-ready, scalable AI solutions** for **Health-Tech** and **Ed-Tech**.
+
+**Core Focus Areas:**
+- Model Engineering: Generative AI / RAG pipelines  
+- System Design: Low-latency, containerized backends  
+- Cross-Platform Deployment: Flutter, React, Node.js  
+
+---
+
+##  What I'm Building
+
+### Dabba AI Ecosystem
+**Contextual RAG System for Enterprise Knowledge Retrieval**  
+Transforms unstructured academic data (syllabi, policies, Q-papers) into a **private, interactive knowledge retrieval system**.
+
+**Engineering Highlights:**
+- Semantic indexing with vector search  
+- Context-preserving RAG pipelines  
+- Privacy-first deployment strategy  
+- Microservice architecture for low-latency querying  
+
+---
+
+##  My Core Technical Competencies
+I maintain a versatile stack to manage the entire AI product lifecycle, from model training and deployment to full-stack application development.
+### Applied Machine Learning & Generative AI
+
+| Core ML & Data | RAG & Orchestration | Deep Learning & Vision | MLOps & Experimentation |
+|----------------|-------------------|----------------------|-------------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-0080FF?style=for-the-badge&logo=langchain&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![MLflow](https://img.shields.io/badge/MLflow-0080FF?style=for-the-badge&logo=mlflow&logoColor=white) |
+| ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=appveyor&logoColor=white) | ![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=transformers&logoColor=white) | ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-F27E00?style=for-the-badge&logo=wandb&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![FAISS](https://img.shields.io/badge/FAISS-0C0C0C?style=for-the-badge&logo=appveyor&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=appveyor&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-F5900C?style=for-the-badge&logo=huggingface&logoColor=white) | ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0080FF?style=for-the-badge&logo=appveyor&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white) |
+
+---
+
+###  Software Engineering & Deployment
+
+| Cloud & Containers | Frontend & Mobile | Backend & Databases | Other Languages |
+|-------------------|-----------------|-------------------|----------------|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Java](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=java&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) | |
+| | | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | |
+
+---
+
+##  Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mondalrik08k-web)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](add-your-link)  
+[![Email](https://img.shields.io/badge/Email-f43f5e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:add-your-email)
 
 ---
 
 
 
----
-
-# 📬 Connect With Me
+#  Connect With Me
 
 - 📧 **Email:** mondalrik08k@gmail.com  
 - 💼 **LinkedIn:** [Rik Mandal](https://www.linkedin.com/in/rik-mondal-5b7a62329/)  
