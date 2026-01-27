@@ -80,3 +80,4 @@ I maintain a versatile stack to manage the entire AI product lifecycle, from mod
 ---
 
 *Last updated: November 2025*  
+give me most expencive ans unic code 
