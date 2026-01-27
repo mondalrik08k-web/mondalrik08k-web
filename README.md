@@ -71,7 +71,7 @@ I maintain a versatile stack to manage the entire AI product lifecycle, from mod
 
 ---
 
-## 📬 Contact Info
+##  Contact Info
 
 - **Email:** [mondalrik08k@gmail.com](mailto:mondalrik08k@gmail.com)  
 - **LinkedIn:** [Rik Mandal](https://www.linkedin.com/in/rik-mondal-5b7a62329/)  
