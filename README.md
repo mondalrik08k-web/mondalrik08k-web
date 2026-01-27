@@ -63,20 +63,19 @@ I maintain a versatile stack to manage the entire AI product lifecycle, from mod
 ---
 
 ##  Let's Connect
+# Let's Connect! 🤝
 
-[![GitHub](https://img.shields.io/badge/GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mondalrik08k-web)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](add-your-link)  
-[![Email](https://img.shields.io/badge/Email-f43f5e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:add-your-email)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mondalrik08k-web)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rik-mondal-5b7a62329/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mondalrik08k@gmail.com)  
 
 ---
 
+## 📬 Contact Info
 
-
-#  Connect With Me
-
-- 📧 **Email:** mondalrik08k@gmail.com  
-- 💼 **LinkedIn:** [Rik Mandal](https://www.linkedin.com/in/rik-mondal-5b7a62329/)  
-- 🐙 **GitHub:** [mondalrik08k-web](https://github.com/mondalrik08k-web)  
+- **Email:** [mondalrik08k@gmail.com](mailto:mondalrik08k@gmail.com)  
+- **LinkedIn:** [Rik Mandal](https://www.linkedin.com/in/rik-mondal-5b7a62329/)  
+- **GitHub:** [mondalrik08k-web](https://github.com/mondalrik08k-web)  
 
 ---
 
