@@ -25,17 +25,7 @@ I focus on **production-ready, scalable AI solutions** for **Health-Tech** and *
 
 ##  What I'm Building
 
-### Dabba AI Ecosystem
-**Contextual RAG System for Enterprise Knowledge Retrieval**  
-Transforms unstructured academic data (syllabi, policies, Q-papers) into a **private, interactive knowledge retrieval system**.
 
-**Engineering Highlights:**
-- Semantic indexing with vector search  
-- Context-preserving RAG pipelines  
-- Privacy-first deployment strategy  
-- Microservice architecture for low-latency querying  
-
----
 
 ##  My Core Technical Competencies
 I maintain a versatile stack to manage the entire AI product lifecycle, from model training and deployment to full-stack application development.
